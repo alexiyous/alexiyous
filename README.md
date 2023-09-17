@@ -1,311 +1,241 @@
-<!-------------------------------------------------visitor count------------------------------------------------------------------------------------------>
-<p align="right">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
-  </a>
- <br>
- <img src="https://komarev.com/ghpvc/?username=alexiyous&style=for-the-badge" align="right"/>
- <br>
-</p>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<!-------------------------------------------------first part-------------------------------------------------------------------------------------->
+![Banner GitHub](https://github.com/alexiyous/alexiyous/blob/main/images/image/image.png)
 
-<p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
-<h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Ali Eren Kayhan </h1>
-<h3 align = "center" > 💻 Junior Software developer | Full Stack Developer | Dotnet, React, C#, Python |🌱 Senior Student @ CET BOUN </h3>
-<h4 align = "center" >
- <!-- download cv button -->
-<a href="https://github.com/Alierenkayhan/Alierenkayhan.github.io/raw/master/files/Ali%20Eren%20Kayhan%20CV.pdf">
-<img src="https://img.shields.io/badge/Download%20CV-Ali%20Eren%20Kayhan-blue" />
-</a>
- </h4>
- 
-<div align = "center">
-       <img alt="GitHub followers" src="https://img.shields.io/github/followers/Alierenkayhan?style=social"> &nbsp;
-       <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Alierenkayhan?style=social">
- </div>
-<br>
-
-<!---------------------------------------------------------About Me------------------------------------------------------------------------------------------>  
-<details>
- <h2 align="center">:man_technologist: About Me :man_technologist:</h2>
- <summary> :man_technologist: About Me</summary> 
- 
-
-<p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="230" height = "320" /></p>
- 
-- 🇹🇷  I live in Istanbul, Turkey.
-- 🚀 I am an Entrepreneur.
-- 🗣️ I can speak English, Turkish, and German.
-- 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
-- 🔭 I’m not currently working.   
-- 🌱 I’m currently learning Web Development and Cyber Security.
-- 💬 Ask me about anything.
-- 📫 How to reach me: a.erenkayhan@gmail.com
-
-![](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
-
- <br>
-</details>
-
-
-
-<!---------------------------------------------------------My Accounts----------------------------------------------------------------------------------------->  
-
-<details>
-<h2 align="center">📫 My Accounts 📫</h2>
-<summary>📫 My Accounts </summary> 
-
-<p align="center"><img src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="110" height = "110" style="border-radius: 5px 30px 10px 50px;" /></p>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexiyous&color=blueviolet" />
+  <br><br>
 
-<a href="https://alierenkayhan.github.io/"><img src="https://img.shields.io/badge/-PersonalWebsite-444bff?style=for-the-badge&logo" height="40"  /></a>&nbsp;
- 
-<a href="mailto:ali_erenbatman@hotmail.com?subject=From My Github page"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="40"/></a>&nbsp;
-<img src="https://img.shields.io/badge/ali eren kayhan-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="40" />&nbsp;
-<a href="https://www.linkedin.com/in/alierenkayhan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>&nbsp;
-
-<a href="https://alierenkayhanbouncet.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="40" /></a>&nbsp;
-<a href="https://medium.com/@alierenkayhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40" /></a>&nbsp;
-<a href="https://www.ted.com/profiles/34139055"><img src="https://img.shields.io/badge/TED-E62B1E?style=for-the-badge&logo=TED" height="40" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCI8HFmI21vBN65Kc3x6L_4A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="40" /></a>&nbsp;
-
-<a href="https://alierenkayhan.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" height="40" /></a>&nbsp;
-<a href="https://learn.unity.com/u/alierenkayhan?tab=profile"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="40" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/19665250/ali-eren-kayhan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" /></a>&nbsp;
-
-<a href="https://www.hackerrank.com/alieren?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" /></a>&nbsp;
-<a href="https://app.patika.dev/alierenkayhan"><img src="https://img.shields.io/badge/-PatikaDev-444bff?style=for-the-badge&logo" height="40"  /></a>&nbsp;
-
-<a href="https://twitter.com/AliErenKayhan3"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="40"  /></a>&nbsp;
-<a href="https://play.google.com/store/apps/developer?id=Ali+Eren+Kayhan"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="40"  /></a>&nbsp;
-
-  
-<img src="https://tryhackme-badges.s3.amazonaws.com/orientationpaint.png" alt="TryHackMe">
-  
+  <a href="https://www.linkedin.com/in/alexius-andrianno"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=A422CE"/></a>
+  <a href="mailto:alexiusrenanta@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=A422CE" /></a>
+  <a href="https://alexiyous.itch.io/"><img src="https://img.shields.io/badge/Itch.io-d5d5d5?style=for-the-badge&logo=itch.io&logoColor=A422CE"  ></a>
+  <a href="https://twitter.com/soasiks"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=A422CE" ></a>
 </div>
 <br>
 
-</details>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-<!---------------------------------------------------------Languages and Tools:----------------------------------------------------------------------------------------->  
+<div>
+<div align="center">
+<i>&nbsp; "The last mile to the truth is an endless abyss, and only those who are diligent can make it through." </i><br><br>
+</div>
+  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"> Hello there! My name is Alexius Andrianno, a [Certified Unity Programmer](https://www.credly.com/badges/f2df1239-18b7-45eb-a6c1-e4509946657a/linked_in_profile) from Indonesia specializing programming, C#, and Game Developing.
+
+<img src="http://marybaldwin.edu/wp-content/uploads/2020/05/grad-hat.gif" width="50" height="20"> &nbsp; A Computer Engineering student.
+
+🚀 &nbsp; A proactive problem solver with excellent communication and collaboration skills, and I thrive in a dynamic and fast paced environment. I am constantly looking for new opportunities to learn, develop, and connect with other professionals in Game Development to share ideas and forge meaningful relationships. My power lies between concepting game design and implementing it through Unity and Programming
+
+🤝 &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/alexius-andrianno) and let's make a wonderful collaboration in game developing.
+
+<img src="https://64.media.tumblr.com/cc4e63aa4626f7ae6a05cbc59d08d9a2/tumblr_mtdwydfu2x1s5jjtzo1_500.gifv" width="30" height="30"> &nbsp; I've been busy creating valuable content and producing articles that educate and inspire others in the tech community. Explore my insightful reads and join my 1k+ followers on [dev.to](https://dev.to/anmolbaranwal).
+
+🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation.
+
+🎁 I have actively participated in the product hunt community, where my exceptional free and open-source resource received 40+ upvotes. Check out the product on [Product Hunt](https://www.producthunt.com/posts/awesome-illustrations-for-projects) to see its impact.
+
+😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [chess](https://lichess.org/@/Anmol_Baranwal
+), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or contributing to exciting open-source projects.
+
+📚 To discover more about my work, achievements, and ongoing projects, visit https://anmolbaranwal.co/. It's a comprehensive showcase of my professional journey.
+
+</div>
+
+<br>
 
 <details>
-  <h2 align="center">🧰 Languages and Tools 🧰</h2>
- <summary> 🧰 Languages and Tools</summary> 
-   <br>
-<div align="center"> 
-  <img src="images/languages and tools logo/csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="images/languages and tools logo/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/asp.net mvc core.jfif" title="AspddotnetMVC" alt="Asp.net mvc core" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/Git-Logo.jpg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp; 
-</div>
+  <summary>🏆 Achievements</summary>
   <br>
   
-<div style="text-align:center;">
-  💾 Database: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-      
-  🎨 Design: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white" />
+  💜 Competition Zone
+  - #11 in GSSoC'23
+  - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
+  - 3rd Rank in a _Avenues 21_ conducted by _SJMSOM_ and _IIT Bombay_ on the topic of Vigilance Awareness.
+  - Top 10 in the national event _Smartcase_ and got a chance to submit Research Proposal.
+  - 3rd Rank in the United Nations Awareness Quiz (national level) conducted by _Helping Hand International_, receiving a _30%_ scholarship in the UN Mentorship Program.
+  - 3rd Rank (263 contestants) in the MarQuest conducted by _MDI Gurgaon_ under Imperium 2022.
+  - Pre-final round in Start-O-Thon organized by _IEEE CIS Chapter - GHREC_, demonstrating the pitch deck with a prototype for the project _#DiversityMatters_.
+  - 3rd prize in _The Social Variable_ powered by _Connecting Dreams Foundations_ and _Amazon Web Services_ in a national competition comprising four rounds.
+  - Finalist in the designathon competition conducted by _Delhi Technological University_.
+  - Finalist in Ad-O-Mania, conducted by IIM Ranchi
 
-  📚 Frameworks & Library: &nbsp; 
-  <img  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
-  
-  🎮 Game Engine: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  2D-3D game & AR = <img  src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  VR = <img  src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  
-  🕓 Version Control: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-   
-  💻 IDE: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  
-  💻 Code Editor: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-   
-  📋 Languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  💜 GitHub Zone
+  - _200+_ Stars on my GitHub Profile.
+  - Active participant in GitHub Community discussions, answering [35+ discussions](https://github.com/orgs/community/discussions?discussions_q=commenter%3AAnmol-Baranwal+is%3Aanswered).
+  - Consistently ranked as one of the _top 5_ Most Helpful members on the [GitHub Community](https://github.com/orgs/community/discussions) discussions for almost a month.
+  - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
+  - Managing [ZeroOctave JavaScript Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) with 400+ Stars on GitHub.
+  - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
 
-  💻 OS: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  💜 Casual Zone
+  - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college.
+  - 2nd Prize in Coding Treasure Hunt at college.
+  - 1200 Rank in National Coding Competition _Accio-Wars_
+  - Part of the Super 30 Batch, availing a 100% scholarship (3 students in the entire college)
+  - Acquired over _1k_ followers on [Dev.to](https://dev.to/anmolbaranwal) through trending articles
+  - _5k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal)
   
-  🖨 3D printer: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  Prusa
-
- </div>
-<br>
 </details>
 
+<br><br>
 
+## Latest Blog Posts  
 
-<!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
+<a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
-<details>
- <h2 align="center">:information_source: Github Information :information_source:</h2>
-<summary> :information_source:	Github Information</summary> <br>
- <div align="center" style="display: inline-flex;">
-  
- <img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="center"  width="47%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true" align="center" width="47%"/> 
-  <br> <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-   <br><br>
- <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-   
-</div>
- <br>
-</details>
-
-
-
-
-<!---------------------------------------------------------Github Repositories----------------------------------------------------------------------------------------->  
-
-<details>
-<summary> 💻 Github Repositories </summary> <br>
- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
-<br>
-<div width="100%" align="center">
- <a align="right" href="https://github.com/Alierenkayhan/Atolye" title="Atolye">
-  <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Atolye&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-  <a align="right" href="https://github.com/Alierenkayhan/CollegeApp-WebApiDotnet7" title="CollegeApp-WebApiDotnet7">
-    <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=CollegeApp-WebApiDotnet7&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-</div>
-  
-<br/><br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Alierenkayhan/Blender_BremenUni_HW" title="Blender_BremenUni_HW">
-    <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Blender_BremenUni_HW&theme=react&border_color=61dafb&border_radius=10"></a>
- 
-  <a align="right" href="https://github.com/Alierenkayhan/disney-clone-react" title="disney-clone-react">
-    <img align="right"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=disney-clone-react&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/Alierenkayhan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> 
-  <br>
-</details>
-
-<!---------------------------------------------------------My Lastest Blog ----------------------------------------------------------------------------------------->  
-
-<details>
-<summary> 📚 My Lastest Blog   </summary> <br>
- <h2 align="center">📚 My Lastest Blog 📚 </h2>
-
- <h3>My Lastest Blog From Blogger</h3>
- 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Madien&#39;s Tower?](https://alierenkayhanbouncet.blogspot.com/2023/01/how-to-build-madienstower.html)
-- [Energy plan for German &lpar;STS 488 Final Assignment&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/energy-plan-for-german-sts-488-final.html)
-- [Reading 3: PMP || Introducing Project Risk Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-3-pmp-introducing-project-risk.html)
-- [Reading 2: PMP 6 Introducing Project Time Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-2-pmp-6-introducing-project.html)
-- [Reading 5: PMP Chapter 2  Basic Skills for Project Managers Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-5-pmp-summary-cet-431-hw.html)
+- [10 Reasons Why GitHub will change your Life Forever](https://dev.to/anmolbaranwal/10-reasons-why-i-love-github-a-10-month-journey-of-passion-and-growth-23h5)
+- [20 Tools for Building Stunning Websites without coding](https://dev.to/anmolbaranwal/20-game-changing-website-builders-to-build-classy-websites-without-coding-4ll7)
+- [Create Mind-blowing Videos with These AI Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
+- [7 Incredible Communities That Will Change Your Life Forever](https://dev.to/anmolbaranwal/7-incredible-communities-that-will-change-your-life-forever-28n1)
+- [Ultimate List of Chrome Extensions](https://dev.to/anmolbaranwal/350-chrome-extensions-to-unleash-your-productivity-4k2o)
+- [400 Free AI Tools - Unleashing the Power of AI](https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0)
 <!-- BLOG-POST-LIST:END -->
 
- <h3>My Lastest Blog From Medium</h3>
- 
-<!-- MEDIUM_BLOG_LIST:START -->
-- [Are you ready for a journey to Virtual Reality?](https://medium.com/nottutuyoruz/are-you-ready-for-a-journey-to-virtual-reality-de5e93746729?source=rss-f029ad9d562f------2)
-- [How to Become a TED Talks Translator](https://medium.com/nottutuyoruz/how-to-become-a-ted-talks-translator-2146f767059?source=rss-f029ad9d562f------2)
-- [How to Build an Awesome Github Profile](https://medium.com/nottutuyoruz/how-to-build-an-awesome-github-profile-f9359c4310dd?source=rss-f029ad9d562f------2)
-- [Neden Bilgisayar Eğitimi ve Eğitim Teknolojileri bölümünde okumalısınız?](https://medium.com/nottutuyoruz/neden-bilgisayar-egitimi-ve-egitim-teknolojileri-bolumunde-okumalisiniz-1ee1c3ce0bf7?source=rss-f029ad9d562f------2)
-- [How To Create An University Networking System In Cisco Packet Tracer](https://medium.com/@alierenkayhan/creating-university-network-system-in-cisco-packet-tracer-7bf3a5b8c296?source=rss-f029ad9d562f------2)
-<!-- MEDIUM_BLOG_LIST:END -->
-<br>
-</details>
 
-<!---------------------------------------------------------My Lastest TED translated & reviewed videos ----------------------------------------------------------------------------------------->  
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<details>
-<summary> 🌐▶️ My Lastest TED videos that I translate and review </summary> <br>
- <h2 align="center">🌐▶️ My Lastest TED videos that I translate and review 🌐▶️ </h2>
 
 <br>
- <h3>My Lastest TED videos that I translate</h3>
- 
-<!-- TED_VIDEO_LIST:START -->
-- [What is a gig economy?](https://www.youtube.com/watch?v=OXT8xdqcAoU)
-- [Coneheads, egg stacks and anteater attacks: The reign of a termite queen - Barbara L. Thorne](https://www.youtube.com/watch?v=JGnXq8l-rwo)
-- [The Boltzmann brain paradox - Fabio Pacucci](https://www.youtube.com/watch?v=OpohbXB_JZU)
-- [The true cost of gold -  Lyla Latif](https://www.youtube.com/watch?v=1nglN3mfZUw)
-- [The 4 greatest threats to the survival of humanity](https://www.youtube.com/watch?v=WP6T4MH0Dn4)
-<!-- TED_VIDEO_LIST:END -->
+<hr>
 
- <h3>My Lastest TED videos that I review </h3>
- 
-<!-- TED_REVIEW_VIDEO_LIST:START -->
-- [A movie for all | Elisa Grosse | TEDxYouth@BerlinCosmopolitanSchool](https://www.youtube.com/watch?v=VEJ8fDooHAM)
-- [Navigating Fear in a New Era of Uncertainty | Holly Jean Jackson | TEDxApex](https://www.youtube.com/watch?v=TqI4XOsMSdg)
-- [A child&#39;s Ukraine | Liza Tarasova | TEDxEatonSquarePrep](https://www.youtube.com/watch?v=0E0YIE9PB14)
-- [Starting small | Skate Lapus | TEDxYouth@Chatham](https://www.youtube.com/watch?v=iVdDVzlqmBE)
-- [Poetic Stickup: Put the Financial Aid in the Bag](https://www.youtube.com/watch?v=iMGRpzf2RL8)
-<!-- TED_REVIEW_VIDEO_LIST:END -->
- 
-<br>
-</details>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-<!---------------------------------------------------------My Lastest Videos ----------------------------------------------------------------------------------------->  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<details>
-<summary> ▶️ My Lastest Youtube Videos   </summary> <br>
- <h2 align="center">▶️ My Lastest Youtube Videos ▶️ </h2>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<br>
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-<!-- YT_VIDEO_LIST:START -->
-- [Hypnose trailer](https://www.youtube.com/watch?v=P0CQN6WqnPw)
-- [Maiden&#39;s Tower](https://www.youtube.com/watch?v=vhLofszTsuM)
-- [The Virus Demo 0.2 – Offical trailer](https://www.youtube.com/watch?v=yDvptDXH0Ug)
-- [How to make a game with scratch](https://www.youtube.com/watch?v=p2tdAo80aUw)
-- [Mr Academic World Ali Eren Kayhan | Official Trailer](https://www.youtube.com/watch?v=ypfQwqk5MHY)
-<!-- YT_VIDEO_LIST:END -->
-
-<br>
-
-</details>
-
-<!---------------------------------------------------------My Lastest Game & Simulations ----------------------------------------------------------------------------------------->  
-
-<details>
-<summary> 🎮 My Lastest Game & Simulations   </summary> <br>
- <h2 align="center">🎮 My Lastest Game & Simulations  🎮 </h2>
-
-<br>
- 
-<a href="https://alierenkayhan.itch.io/the-virus"><img src="https://img.itch.zone/aW1nLzgxMjI3MTAucG5n/315x250%23c/K8SF1c.png" width="208" height="167" title="The Virus"/></a> 
-<a href="https://alierenkayhan.itch.io/wer-ist-der-mrder"><img src="https://img.itch.zone/aW1nLzg2ODQ0NTguanBlZw==/315x250%23c/TtQgqA.jpeg" width="208" height="167" title="Wer Ist Der Mörder?"/></a>
-<a href="https://alierenkayhan.itch.io/atlye"><img src="https://img.itch.zone/aW1nLzg4MjA5NDAuanBn/315x250%23c/Aprazu.jpg" width="208" height="167" title="Atölye"/></a>
-<a href="https://alierenkayhan.itch.io/boun-edutech-simulation"><img src="https://github.com/Alierenkayhan/Alierenkayhan/blob/main/images/image/edutech.jpg?raw=true" width="208" height="167" title="Boun EduTech simulation"/></a>
-
+| Category        | Skills        |
+|-----------------|---------------|
+| Frameworks| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> |
+| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> |
+| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=udacity&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Services & Tools| <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" /> <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| Competitive Coding | <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/anmol119"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
+| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
+| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/foursquare-3333FF?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
+| Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
+| Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> |
   
-<br>
-</details>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!---------------------------------------------------------footer----------------------------------------------------------------------------------------->   
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
-</p> 
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
+| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
+| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
+| Plasmo Chrome Extension | - | [view](https://github.com/Anmol-Baranwal/country-chrome-extension) | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`
+| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
+| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
+| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
+| Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
+| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
+| Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
+| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` |
+| C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
+
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# Metrics
+
+<!-- You can check the workflows here: (.github/workflows)   -->
+
+<details>
+  <summary>Expand</summary> 
+
+| Overview | Follow up Issues & PRs |
+|:--------:|:-------------------------:|
+| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
+| Leetcode Stats | Notable Contributions |
+| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
+| Achievements | Language Activity |
+| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
+| Discussions | Reactions |
+| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
+
+</details>                     
+<br>
+<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
+
+<div align="center">
+  <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
+  <br>
+  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a> 
+  <br> 
+  <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-0A0209?style=for-the-badge&logo=Product%20Hunt&logoColor=d5d5d5" /></a>
+  <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
+  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
+  <br>
+  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-d5d5d5?style=for-the-badge&logo=codecademy&logoColor=0A0209" /></a> 
+  <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
+  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
+  
+</div>
+
+<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Fuel my passion 
+<a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
+<a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&logo=gumroad&logoColor=0A0209" /></a>
+
+<br><br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+
+<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
