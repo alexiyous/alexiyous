@@ -126,4 +126,4 @@
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
  
-![Snake animation](https://github.com/alexiyous/alexiyous/blob/output/github-contribution-grid-snake.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/alexiyous/alexiyous/output/github-contribution-grid-snake-dark.svg)
