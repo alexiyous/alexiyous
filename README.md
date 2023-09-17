@@ -117,7 +117,7 @@
 | ![Alex Github Stats](https://github-readme-stats.vercel.app/api?username=alexiyous\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Alexius Andrianno GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexiyous&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
   <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexiyous&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexiyous&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexiyous&layout=compact&langs_count=8&theme=dark"/>
 </p>
                 
