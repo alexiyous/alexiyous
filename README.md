@@ -29,24 +29,21 @@
 <i>&nbsp; "The last mile to the truth is an endless abyss, and only those who are diligent can make it through." </i><br><br>
 </div>
   
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"> Hello there! My name is Alexius Andrianno, a [Certified Unity Programmer](https://www.credly.com/badges/f2df1239-18b7-45eb-a6c1-e4509946657a/linked_in_profile) from Indonesia specializing programming, C#, and Game Developing.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hello there! My name is Alexius Andrianno, a [Certified Unity Programmer](https://www.credly.com/badges/f2df1239-18b7-45eb-a6c1-e4509946657a/linked_in_profile) from Indonesia specializing programming, C#, and Game Developing.
 
-<img src="http://marybaldwin.edu/wp-content/uploads/2020/05/grad-hat.gif" width="50" height="20"> &nbsp; A Computer Engineering student.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIwaHY3aWs0aWsxeWJwbDdtN2drcXQ0MHBremk1ODdrdm8wY3BrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUNLBahKJICTZLmMl6/giphy.gif" width="30" height="30"> &nbsp; A Computer Engineering student at University of Brawijaya.
 
-🚀 &nbsp; A proactive problem solver with excellent communication and collaboration skills, and I thrive in a dynamic and fast paced environment. I am constantly looking for new opportunities to learn, develop, and connect with other professionals in Game Development to share ideas and forge meaningful relationships. My power lies between concepting game design and implementing it through Unity and Programming
+<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="30" height="30"> &nbsp; I am constantly looking for new opportunities to learn, and connect with other professionals in Game Development to share ideas and forge meaningful relationships. My power lies between concepting game design and implementing it through Unity and Programming
 
-🤝 &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/alexius-andrianno) and let's make a wonderful collaboration in game developing.
+<img src="https://media.tenor.com/WcX0kyTKLNoAAAAC/thisisfinland-finland.gif" width="30" height="30"> &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/alexius-andrianno) and let's make a wonderful collaboration in game developing.
 
-<img src="https://64.media.tumblr.com/cc4e63aa4626f7ae6a05cbc59d08d9a2/tumblr_mtdwydfu2x1s5jjtzo1_500.gifv" width="30" height="30"> &nbsp; I've been busy creating valuable content and producing articles that educate and inspire others in the tech community. Explore my insightful reads and join my 1k+ followers on [dev.to](https://dev.to/anmolbaranwal).
+<img src="https://64.media.tumblr.com/cc4e63aa4626f7ae6a05cbc59d08d9a2/tumblr_mtdwydfu2x1s5jjtzo1_500.gifv" width="30" height="30"> &nbsp; Here are some of my games, with many "features" (lol) that you could see on my [Itch.io](https://alexiyous.itch.io/).
 
-🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc4a2VyODRpeG5pbHFieHhvYzRwa3liMWJjYmNlNG52YnM5dGxtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yz6KMGAmAS39aUOlqX/giphy_s.gif" width="30" height="30"> &nbsp; I actively engage in [Game Organization](https://www.instagram.com/raion_community/) on my Faculty and as a Vice Chairman of this Organization, I conduct many events and helping my fellow members on thriving in the game industries
 
-🎁 I have actively participated in the product hunt community, where my exceptional free and open-source resource received 40+ upvotes. Check out the product on [Product Hunt](https://www.producthunt.com/posts/awesome-illustrations-for-projects) to see its impact.
+<img src="https://media4.giphy.com/media/9xt1MUZqkneFiWrAAD/giphy.gif?cid=ecf05e47if97oq6hlrkyvbx0qkxzgjami9l4zfhi2nrkk7l2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" height="30"> I have participated in many Game Development Competitions and have a lot of experience as a winner and finalist in these competitions. All of those are my power for me to move forward
 
-😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [chess](https://lichess.org/@/Anmol_Baranwal
-), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or contributing to exciting open-source projects.
-
-📚 To discover more about my work, achievements, and ongoing projects, visit https://anmolbaranwal.co/. It's a comprehensive showcase of my professional journey.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYxY29mazE1anI2NnB3dWo5Y21ueW9pb284cHNmaDB5eWsxdmNoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HiG5VSRT3bhxO0Noha/giphy.gif" width="30" height="30"> &nbsp; In my free time, other than developing new games with my friends, I love to play guitar and sing. My favorite genre is jazz, but sometimes metal.
 
 </div>
 
@@ -56,51 +53,18 @@
   <summary>🏆 Achievements</summary>
   <br>
   
-  💜 Competition Zone
-  - #11 in GSSoC'23
-  - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
-  - 3rd Rank in a _Avenues 21_ conducted by _SJMSOM_ and _IIT Bombay_ on the topic of Vigilance Awareness.
-  - Top 10 in the national event _Smartcase_ and got a chance to submit Research Proposal.
-  - 3rd Rank in the United Nations Awareness Quiz (national level) conducted by _Helping Hand International_, receiving a _30%_ scholarship in the UN Mentorship Program.
-  - 3rd Rank (263 contestants) in the MarQuest conducted by _MDI Gurgaon_ under Imperium 2022.
-  - Pre-final round in Start-O-Thon organized by _IEEE CIS Chapter - GHREC_, demonstrating the pitch deck with a prototype for the project _#DiversityMatters_.
-  - 3rd prize in _The Social Variable_ powered by _Connecting Dreams Foundations_ and _Amazon Web Services_ in a national competition comprising four rounds.
-  - Finalist in the designathon competition conducted by _Delhi Technological University_.
-  - Finalist in Ad-O-Mania, conducted by IIM Ranchi
+  <img src="https://i.imgur.com/wEex5FV.gif" width="30" height="30"> Competition Zone
+  - [Best Visual Winner: Festival STMM Game Jam](https://www.linkedin.com/posts/alexius-andrianno_exciting-news-im-thrilled-to-announce-activity-7093117099421675520-RLee?utm_source=share&utm_medium=member_desktop), nationwide game jam held by _Sekolah Tinggi Multimedia_ Jogjakarta where my team came out as the Best Game Visually with Magical theme
+  - [Finalist JOINTS Game Jam UGM 2023](https://www.linkedin.com/posts/alexius-andrianno_jointsgamejam2023-chronosfox-gamedevelopment-activity-7067460129570394112-Mo9N?utm_source=share&utm_medium=member_desktop) conducted by _OmahTI Universitas Gadjah Mada_, presenting my game with pitch deck of the game concept and mechanics.
+  - [2nd Place Game Development at Raion Hackjam 2022](https://www.linkedin.com/in/alexius-andrianno/overlay/experience/2094316345/multiple-media-viewer/?profileId=ACoAADbNDwEBZ4_gi0rQJsXo8FYIUltl4jslb6E&treasuryMediaId=1635511853157), held by _Raion Community_.
 
-  💜 GitHub Zone
-  - _200+_ Stars on my GitHub Profile.
-  - Active participant in GitHub Community discussions, answering [35+ discussions](https://github.com/orgs/community/discussions?discussions_q=commenter%3AAnmol-Baranwal+is%3Aanswered).
-  - Consistently ranked as one of the _top 5_ Most Helpful members on the [GitHub Community](https://github.com/orgs/community/discussions) discussions for almost a month.
-  - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
-  - Managing [ZeroOctave JavaScript Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) with 400+ Stars on GitHub.
-  - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
-
-  💜 Casual Zone
-  - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college.
-  - 2nd Prize in Coding Treasure Hunt at college.
-  - 1200 Rank in National Coding Competition _Accio-Wars_
-  - Part of the Super 30 Batch, availing a 100% scholarship (3 students in the entire college)
-  - Acquired over _1k_ followers on [Dev.to](https://dev.to/anmolbaranwal) through trending articles
-  - _5k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal)
+  <img src="https://media.tenor.com/w-boZxCBeu0AAAAi/career-great-employee.gif" width="30" height="30"> Career Zone
+  - Game Designer Intern at [Primeskills Indonesia](https://www.primeskills.id/)
+  - Fulltime Game Programmer at [Ikan Asin Production](https://play.google.com/store/apps/dev?id=8658098171267210412)
   
 </details>
 
 <br><br>
-
-## Latest Blog Posts  
-
-<a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
-
-<!-- BLOG-POST-LIST:START -->
-- [10 Reasons Why GitHub will change your Life Forever](https://dev.to/anmolbaranwal/10-reasons-why-i-love-github-a-10-month-journey-of-passion-and-growth-23h5)
-- [20 Tools for Building Stunning Websites without coding](https://dev.to/anmolbaranwal/20-game-changing-website-builders-to-build-classy-websites-without-coding-4ll7)
-- [Create Mind-blowing Videos with These AI Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
-- [7 Incredible Communities That Will Change Your Life Forever](https://dev.to/anmolbaranwal/7-incredible-communities-that-will-change-your-life-forever-28n1)
-- [Ultimate List of Chrome Extensions](https://dev.to/anmolbaranwal/350-chrome-extensions-to-unleash-your-productivity-4k2o)
-- [400 Free AI Tools - Unleashing the Power of AI](https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0)
-<!-- BLOG-POST-LIST:END -->
-
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -110,7 +74,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexiyous&bg_color=161b22&color=ffffff&line=d5d5d5&point=a422ce&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
