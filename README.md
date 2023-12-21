@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/alexius-andrianno"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=A422CE"/></a>
   <a href="mailto:alexiusrenanta@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=A422CE" /></a>
   <a href="https://alexiyous.itch.io/"><img src="https://img.shields.io/badge/Itch.io-d5d5d5?style=for-the-badge&logo=itch.io&logoColor=A422CE"  ></a>
-  <a href="https://twitter.com/soasiks"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=A422CE" ></a>
+   <img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=A422CE" ></a>
 </div>
 <br>
 
