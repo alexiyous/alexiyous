@@ -29,21 +29,21 @@
 <i>&nbsp; "The last mile to the truth is an endless abyss, and only those who are diligent can make it through." </i><br><br>
 </div>
   
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hello there! My name is Alexius Andrianno, a [Certified Unity Programmer](https://www.credly.com/badges/f2df1239-18b7-45eb-a6c1-e4509946657a/linked_in_profile) from Indonesia specializing programming, C#, and Game Developing.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hello there! My name is Alexius Andrianno, a [Certified Unity Programmer](https://www.credly.com/badges/f2df1239-18b7-45eb-a6c1-e4509946657a/linked_in_profile) & Android Developer from Indonesia specializing programming, Android Development, Unity Engineering, VR/AR Development, and Game Programming.
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIwaHY3aWs0aWsxeWJwbDdtN2drcXQ0MHBremk1ODdrdm8wY3BrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUNLBahKJICTZLmMl6/giphy.gif" width="30" height="30"> &nbsp; A Computer Engineering student at University of Brawijaya.
 
-<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="30" height="30"> &nbsp; I am constantly looking for new opportunities to learn, and connect with other professionals in Game Development to share ideas and forge meaningful relationships. My power lies between concepting game design and implementing it through Unity and Programming
+<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="30" height="30"> &nbsp; I am constantly looking for new opportunities to learn, and connect with other professionals in Android & Game Development to share ideas and forge meaningful relationships. My power lies between concepting ideas and implementing it through Code and REALITY.
 
-<img src="https://media.tenor.com/WcX0kyTKLNoAAAAC/thisisfinland-finland.gif" width="30" height="30"> &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/alexius-andrianno) and let's make a wonderful collaboration in game developing.
+<img src="https://media.tenor.com/WcX0kyTKLNoAAAAC/thisisfinland-finland.gif" width="30" height="30"> &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/alexius-andrianno) and let's make a wonderful collaboration
 
 <img src="https://64.media.tumblr.com/cc4e63aa4626f7ae6a05cbc59d08d9a2/tumblr_mtdwydfu2x1s5jjtzo1_500.gifv" width="30" height="30"> &nbsp; Here are some of my games, with many "features" (lol) that you could see on my [Itch.io](https://alexiyous.itch.io/).
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc4a2VyODRpeG5pbHFieHhvYzRwa3liMWJjYmNlNG52YnM5dGxtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yz6KMGAmAS39aUOlqX/giphy_s.gif" width="30" height="30"> &nbsp; I actively engage in [Game Organization](https://www.instagram.com/raion_community/) on my Faculty and as a Vice Chairman of this Organization, I conduct many events and helping my fellow members on thriving in the game industries
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc4a2VyODRpeG5pbHFieHhvYzRwa3liMWJjYmNlNG52YnM5dGxtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yz6KMGAmAS39aUOlqX/giphy_s.gif" width="30" height="30"> &nbsp; I actively engage in [IT Organization](https://www.instagram.com/raion_community/) on my Faculty and as a Chairman of this Organization, I conduct many events and helping my fellow members on thriving in the mobile & game industries
 
-<img src="https://media4.giphy.com/media/9xt1MUZqkneFiWrAAD/giphy.gif?cid=ecf05e47if97oq6hlrkyvbx0qkxzgjami9l4zfhi2nrkk7l2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" height="30"> I have participated in many Game Development Competitions and have a lot of experience as a winner and finalist in these competitions. All of those are my power for me to move forward
+<img src="https://media4.giphy.com/media/9xt1MUZqkneFiWrAAD/giphy.gif?cid=ecf05e47if97oq6hlrkyvbx0qkxzgjami9l4zfhi2nrkk7l2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" height="30"> I have participated in many Game Development Competitions, Mobile Development Courses and have a lot of experience as a winner and finalist in competitions. All of those are my power for me to move forward
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYxY29mazE1anI2NnB3dWo5Y21ueW9pb284cHNmaDB5eWsxdmNoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HiG5VSRT3bhxO0Noha/giphy.gif" width="30" height="30"> &nbsp; In my free time, other than developing new games with my friends, I love to play guitar and sing. My favorite genre is jazz, but sometimes metal.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYxY29mazE1anI2NnB3dWo5Y21ueW9pb284cHNmaDB5eWsxdmNoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HiG5VSRT3bhxO0Noha/giphy.gif" width="30" height="30"> &nbsp; In my free time, I love to play guitar and sing. My favorite genre is jazz, but sometimes metal.
 
 </div>
 
@@ -62,7 +62,7 @@
   <img src="https://media.tenor.com/w-boZxCBeu0AAAAi/career-great-employee.gif" width="30" height="30"> Career Zone
   - Game Designer Intern at [Primeskills Indonesia](https://www.primeskills.id/)
   - Fulltime Game Programmer at [Ikan Asin Production](https://play.google.com/store/apps/dev?id=8658098171267210412)
-  
+  - Unity Engineer at Telkom Indonesia Specialzing in VR/AR Development
 </details>
 
 <br><br>
@@ -90,7 +90,7 @@
 | Engine| <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> |
 | Languages       | <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> |
 | Libraries Extension | <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/c5ec08d3-ee6b-4ca6-8fe6-7197c829f185.png" width="60" height="28" /> <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/fd052e88-d81f-46d3-ac8f-b2c2214f9376.png" width="28" height="28" />
-| IDE & Environment | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> |
+| IDE & Environment | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" /> |
 | Design Tools    | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
 | Learning | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> |
   
