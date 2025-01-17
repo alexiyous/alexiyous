@@ -115,7 +115,7 @@
 # Github Stats
 
 <!-- You can check the workflows here: (.github/workflows)   -->
-| ![Alex Github Stats](https://github-readme-stats.vercel.app/api?username=alexiyous\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=alexiyous&theme=monokai-metallian&hide_border=true&short_numbers=true) |
+| ![Alex Github Stats](https://github-readme-stats.vercel.app/api?username=alexiyous\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=alexiyous&theme=monokai-metallian&hide_border=true&short_numbers=true) |
 | -- | -- |
 |<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexiyous&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>| <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexiyous&layout=compact&langs_count=8&theme=dark"/>|
                 
