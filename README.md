@@ -29,11 +29,11 @@
 <i>&nbsp; "The last mile to the truth is an endless abyss, and only those who are diligent can make it through." </i><br><br>
 </div>
   
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hello there! My name is Alexius Andrianno, a [Certified Unity Programmer](https://www.credly.com/badges/f2df1239-18b7-45eb-a6c1-e4509946657a/linked_in_profile) & Android Developer from Indonesia specializing programming, Android Development, Unity Engineering, VR/AR Development, and Game Programming.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hello there! My name is Alexius Andrianno, a [Certified Unity Programmer](https://www.credly.com/badges/f2df1239-18b7-45eb-a6c1-e4509946657a/linked_in_profile) & Android Developer from Indonesia specializing programming, Android Development, Unity Engineering, VR/AR Development, and Game Programming. Currenlty I'm working as an Android Engineer for a Russian Dating App.
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIwaHY3aWs0aWsxeWJwbDdtN2drcXQ0MHBremk1ODdrdm8wY3BrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUNLBahKJICTZLmMl6/giphy.gif" width="30" height="30"> &nbsp; A Computer Engineering student at University of Brawijaya.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIwaHY3aWs0aWsxeWJwbDdtN2drcXQ0MHBremk1ODdrdm8wY3BrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dUNLBahKJICTZLmMl6/giphy.gif" width="30" height="30"> &nbsp; I'm a Cum Laude Fresh Graduate Computer Engineer from University of Brawijaya, Indonesia.
 
-<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="30" height="30"> &nbsp; I am constantly looking for new opportunities to learn, and connect with other professionals in Android & Game Development to share ideas and forge meaningful relationships. My power lies between concepting ideas and implementing it through Code and REALITY.
+<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="30" height="30"> &nbsp; I am constantly looking for new opportunities to learn, and connect with other professionals in Android Native Development, Mobile Crossplatform Development, Game Development, AI/ML, and Web Developement  to share ideas and forge meaningful relationships. My power lies between concepting ideas and implementing it through Code and REALITY.
 
 <img src="https://media.tenor.com/WcX0kyTKLNoAAAAC/thisisfinland-finland.gif" width="30" height="30"> &nbsp; Connect me on [LinkedIn](https://www.linkedin.com/in/alexius-andrianno) and let's make a wonderful collaboration
 
