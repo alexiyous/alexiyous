@@ -28,6 +28,9 @@
 <div align="center">
 <i>&nbsp; "The last mile to the truth is an endless abyss, and only those who are diligent can make it through." </i><br><br>
 </div>
+
+<img width="2500" height="2001" alt="image" src="https://github.com/user-attachments/assets/f1bc93fd-5e15-49a9-9d19-f7b3f22d8031" />
+
   
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hello there! My name is Alexius Andrianno, a [Certified Unity Programmer](https://www.credly.com/badges/f2df1239-18b7-45eb-a6c1-e4509946657a/linked_in_profile) & Android Developer from Indonesia specializing programming, Android Development, Unity Engineering, VR/AR Development, and Game Programming. Currenlty I'm working as an Android Engineer for a Russian Dating App.
 
